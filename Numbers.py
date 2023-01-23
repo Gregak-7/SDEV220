@@ -22,3 +22,7 @@ integer = seconds_per_day // seconds_per_hour
 print(integer)
 #integer = 24
 #the number did infact, agree with the float point number asides from the final ".0"
+
+"""
+*No issues encountered while completing this assignment
+"""
