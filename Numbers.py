@@ -1,6 +1,8 @@
 #Things to Do
 #3.1
 
+#Python 3.11.1
+
 #assign variables to their respective time units and solve
 seconds = 60
 minutes = 60
