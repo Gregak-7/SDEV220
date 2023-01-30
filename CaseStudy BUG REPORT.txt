@@ -1,0 +1,7 @@
+Bug Report
+
+Program: Honor Roll / Dean's List program
+Python
+V.1.0
+
+Did not have any issues. Creted a similar program in CodeCademy.
