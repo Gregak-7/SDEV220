@@ -1,8 +1,8 @@
 #Name: Greg Kocal
 #Version: Python 3
-#Purpose of Life: Choose a number between 1 and 10 and assign it to the variable secret. Then, select another number 
-#between 1 and 10 and assign it to the variable guess. Next, write the conditional tests (if, else, and elif) to print the string 
-#'too low' if guess is less than secret, 'too high' if greater than secret, and 'just right' if equal to secret.
+#Purpose of Life: Assign the value 7 to the variable guess_me, and the value 1 to the variable number. Write a while loop that compares 
+#number with guess_me. Print 'too low' if number is less than guess me. If number equals guess_me, print 'found it!' and then exit the loop. 
+#If number is greater than guess_me, print 'oops' and then exit the loop. Increment number at the end of the loop.
 
 guess_me = 7
 number = 0
