@@ -1,3 +1,10 @@
+#Name: Greg Kocal
+#File Name: Vehicles.Py
+#Life Purpose: A program that allows a user to input information regarding a vehicle and
+#program identifies whether the vehicle is a car, boat, truck, or plane
+
+
+
 class Vehicle:
     def __init__(self, vehicle_type):
         self.vehicle_type = vehicle_type
